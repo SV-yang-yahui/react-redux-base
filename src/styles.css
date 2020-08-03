@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+  margin: 100px;
+}
+.App button {
+  margin: 3px;
+  background: none;
+  border: 1px solid black;
+  color: black;
+}
+.App button:hover {
+  background: black;
+  color: white;
+
+  transition: 0.3s ease-out;
+}
+.App span {
+  color: #ccc;
+}
